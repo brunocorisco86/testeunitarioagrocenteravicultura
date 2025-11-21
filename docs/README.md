@@ -1,0 +1,1 @@
+Na pasta CONSIDERACOES_FEITAS_NOS_CENARIOS estao salvos ou erros encontrados durante os testes ou anotacoes para que sejam implementadas melhorias na interface ou em features do agrocenter expert no modulo avicultura
